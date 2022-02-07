@@ -7,6 +7,10 @@ const _cities = [
     id: 2,
     name: 'New Orleans',
   },
+  {
+    id: 3,
+    name: 'Sønderborg',
+  },
 ]
 
 export default class PostsStore {
